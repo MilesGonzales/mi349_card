@@ -19,4 +19,5 @@ img {
 
 .card .avatar {
     width: 100px;
+    border-radius: 50%;
 }
